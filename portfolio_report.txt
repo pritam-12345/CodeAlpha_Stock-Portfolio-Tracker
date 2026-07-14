@@ -1,0 +1,19 @@
+STOCK PORTFOLIO REPORT
+=========================
+
+AAPL
+Price : 180
+Quantity : 5
+Investment : 900
+
+MSFT
+Price : 320
+Quantity : 3
+Investment : 960
+
+AMZN
+Price : 140
+Quantity : 2
+Investment : 280
+
+Total Investment = 2140
